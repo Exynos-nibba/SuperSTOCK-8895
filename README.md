@@ -1,5 +1,5 @@
 # SuperSTOCK-8895
-SuperSTOCK releases repo, automated builds and release with Jenkins!
+SuperSTOCK releases branch, automated builds and release with Jenkins!
 
 
         Linux kernel release 4.x <http://kernel.org/>
